@@ -1,0 +1,40 @@
+_repo: The-Uncollected-Writings-of-Thomas-de-Quincey-Vol.-2With-a-Preface-and-Annotations-by-James-H__20090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - Quincey, Thomas de
+    - Kvinsi, Tomas de
+    - DeQuincey, Thomas
+    - Quincy, Thomas de
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+  editor:
+    agent_name: Hogg, James
+    birthdate: 1830
+    deathdate: 1910
+    gutenberg_agent_id: '8415'
+    url: http://www.gutenberg.org/2009/agents/8415
+description: ''
+gutenberg_issued: '2006-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature'
+title: 'The Uncollected Writings of Thomas de Quincey, Vol. 2
+
+  With a Preface and Annotations by James Hogg'
+url: http://www.gutenberg.org/ebooks/20090
